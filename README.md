@@ -17,7 +17,7 @@ sudo apt-get install build-essential
 # Install cmake
 sudo apt-get install cmake
 
-<b>Emscripten Installation </b>
+<b>Emscripten Installation </b><br/>
 wget https://s3.amazonaws.com/mozilla-games/emscripten/releases/emsdk-portable.tar.gz
 # Fetch the latest registry of available tools.
 ./emsdk update
