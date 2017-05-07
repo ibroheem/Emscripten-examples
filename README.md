@@ -1,9 +1,7 @@
-# Emscripten
-Emscripten is an LLVM-based project that compiles C and C++ into highly-optimizable JavaScript in asm.js format. This lets you run C and C++ on the web at *near-native (there is a lot of problem with this  word)* speed, without plugins. 
+# Emscripten-examples
+This repo contains Emscripten (an LLVM-based project that compiles C and C++ into highly-optimizable JavaScript in asm.js format. ) example code and some guides
 
-This repo contains Emscripten example code and some guides
-
-### Quick Guide:
+### Quick Setup Guide:
 [From: http://kripken.github.io/emscripten-site/docs/getting_started/downloads.html]  
 ** Installation (Linux): 
 
